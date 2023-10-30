@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #242424;
+  color: aliceblue;
+}
+.app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.threeD {
+  height: 600px;
+  width: 500px;
+  background-color: aquamarine;
+}
