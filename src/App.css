@@ -1,14 +1,15 @@
 body {
   margin: 0;
-  background-color: #242424;
+  overflow: hidden;
   color: aliceblue;
+  height: 100vh;
 }
 .app {
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .threeD {
   height: 600px;
   width: 500px;
