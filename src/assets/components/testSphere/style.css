@@ -1,0 +1,13 @@
+#myThreeJsCanvas2 {
+  position: absolute;
+  z-index: 1;
+}
+
+.title {
+  z-index: 2;
+  position: relative;
+  left: 40%;
+  font-family: "Gruppo";
+  font-size: 3em;
+  top: 80px;
+}
